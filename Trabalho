@@ -1,0 +1,9 @@
+Nomes:
+Gabriel Castro Lara Oliveira - ads - 1261941637
+Artur Bigao Machado Gonçalves - ads - 1261941965
+Frederico Kiyoshi Tsukamoto Bastos - Sistemas de Informação - 1261938754
+
+Ideia:
+Sistema de votação simples com apuração de resultados.
+sistema de votação simples com apuração de resultados, onde armazena o nome, idade, informação dos usuários e a contagem dos votos. O programa recebe os votos, confere se são válidos e soma corretamente para cada
+opção (candidato). No final, mostra o total de votos e indica quem venceu a votação.
