@@ -6,4 +6,4 @@ Frederico Kiyoshi Tsukamoto Bastos - Sistemas de Informação - 1261938754
 Ideia:
 Sistema de votação simples com apuração de resultados.
 sistema de votação simples com apuração de resultados, onde armazena o nome, idade, informação dos usuários e a contagem dos votos. O programa recebe os votos, confere se são válidos e soma corretamente para cada
-opção (candidato). No final, mostra o total de votos e indica quem venceu a votação.
+opção (candidato). No final, o administrador consegue ver a quantidade de votos em anonimo e pode encerrar mostrando o total de votos para cada candidato e indica quem venceu a votação.
